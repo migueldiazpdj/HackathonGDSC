@@ -52,4 +52,5 @@ Contributions to improve this tool are welcome. Feel free to fork this repositor
 
 ## License
 
-[MIT License](LICENSE.md)
+
+Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
